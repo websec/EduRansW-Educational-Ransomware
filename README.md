@@ -37,6 +37,15 @@ Giving this repo a star also helps is get statistics about how much people like 
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) LICENSE file for details.
 
+## How to Decrypt (Spoiler)
+
+<details>
+  <summary>Spoiler: Decrypting through Function Hooking</summary>
+  
+  Detailed explanation and insights can be found in the discussion on [security.forum](https://security.forum/index.php?threads/eduransw-writeup-1-how-to-decrypt-ransomware-with-api-call-hooking.4/#post-4).
+</details>
+
+
 ## About WebSec B.V.
 
 WebSec B.V. is committed to advancing cybersecurity knowledge and tools. For more information about our projects and initiatives, visit our [website](https://websec.nl/en).

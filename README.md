@@ -30,7 +30,8 @@ EduRansW is developed strictly for educational purposes. Users must agree to use
 ## Support and Feedback
 
 For support, feedback, or more information, please visit [WebSec B.V.](https://websec.nl) or contact support@websec.nl.
-You can also star this repository to show your gratitutde, if this reaches allot of starts we will update this with a new more advanced version.
+
+Giving this repo a star also helps is get statistics about how much people like the project, allot of stars usually motivate us to release an even better version :-)
 
 ## License
 

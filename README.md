@@ -25,7 +25,7 @@ EduRansW creates a secure, simulated environment where a directory named "CryptP
 
 ## Disclaimer
 
-EduRansW is developed strictly for educational purposes. Users must agree to use this tool responsibly and acknowledge its intent to promote cybersecurity education. WebSec B.V. assumes no liability for misuse of this software or any damages resulting from its use.
+EduRansW is developed strictly for educational purposes. Users must agree to use this tool and sourcecode responsibly and acknowledge its intent to promote cybersecurity education. WebSec B.V. assumes no liability for misuse of this software or any damages resulting from its use.
 
 ## Support and Feedback
 

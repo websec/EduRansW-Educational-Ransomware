@@ -38,7 +38,9 @@ Giving this repo a star also helps is get statistics about how much people like 
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) LICENSE file for details.
 
-## How to Decrypt (Spoiler)
+## Reversing the Binary with IDA and decrypt the files (Spoiler)
+
+While there are several methods to exploit this educational ransomware and achieve the same result, here is one way to do so: 
 
 <details>
   <summary>Spoiler: Decrypting through Function Hooking</summary>

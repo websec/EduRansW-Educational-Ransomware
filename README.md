@@ -6,7 +6,8 @@ EduRansW is an innovative educational tool aimed at providing a practical learni
 
 ### Prerequisites
 - Windows 10 or newer
-- C++ Reds (Only if it doesnt work, see readme.txt)
+- C++ Reds (If the application doesn't work for any reason)
+- MFC libraries x86 & x64 (From Visual Studio Installer, you can download it under Individual Components)
 
 ### Installation
 1. Visit [https://websec.nl/downloads](https://websec.nl/downloads) to download the latest version of EduRansW.

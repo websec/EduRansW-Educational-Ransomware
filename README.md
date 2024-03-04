@@ -46,6 +46,8 @@ While there are several methods to exploit this educational ransomware and achie
   <summary>Spoiler: Decrypting through Function Hooking</summary>
   
   Detailed explanation and insights can be found in the discussion on [security.forum](https://security.forum/index.php?threads/eduransw-writeup-1-how-to-decrypt-ransomware-with-api-call-hooking.4/#post-4).
+
+  Youtube Video:  coming soon
 </details>
 
 

@@ -38,18 +38,6 @@ Giving this repo a star also helps us get statistics about how much people like 
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) LICENSE file for details.
 
-## Reversing the Binary with IDA and decrypt the files (Spoiler)
-
-While there are several methods to exploit this educational ransomware and achieve the same result, here is one way to do so: 
-
-<details>
-  <summary>Spoiler: Decrypting through Function Hooking</summary>
-  
-  Detailed explanation and insights can be found in the discussion on [security.forum](https://security.forum/index.php?threads/eduransw-writeup-1-how-to-decrypt-ransomware-with-api-call-hooking.4/#post-4).
-
-  Youtube Video:  coming soon
-</details>
-
 
 ## About WebSec B.V.
 

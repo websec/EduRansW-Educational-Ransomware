@@ -18,6 +18,10 @@ EduRansW is an innovative educational tool aimed at providing a practical learni
 
 EduRansW creates a secure, simulated environment where a directory named "CryptPath" is automatically generated. This directory acts as the target for the simulated ransomware attack, where files are encrypted. The challenge for users is to reverse-engineer the application, decrypt the encrypted files, and understand the mechanisms of ransomware attacks.
 
+## PDB File
+
+Note: a PDB file would pretty much never be present with real-life malware scenario's, we only included it in this repo so that you can understand what it this (What the differences are between debugging with PDB and without PDB)
+
 ## Features
 
 - Simulated ransomware encryption within a controlled environment
